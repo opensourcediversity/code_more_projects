@@ -25,6 +25,7 @@ Please open a PR if you want to update / add information about your project or a
 [DataViz](#dataviz) <br />
 [EventFahrplan](#eventfahrplan) <br />
 [Wo ist Markt](#wo-ist-markt) <br />
+[Diversity Tickets](#diversity-tickets) <br />
 
 
 
@@ -252,5 +253,17 @@ A conference program app for Android used at the Chaos Communication Congress an
 | Contact| https://twitter.com/tbsprs |
 
 Wo ist Markt? aims at providing an easy to use website for flea, farmers markets and such.
+
+---
+### Diversity Tickets
+
+|Website| https://diversitytickets.org/ |
+|----|----|
+|Repo| https://github.com/rubymonsters/diversity_ticketing |
+| Technologies| CSS, JavaScript, Rails, Ruby |
+| Open to Beginners| ✅  |
+| Contact| GitHub issues: https://github.com/rubymonsters/diversity_ticketing/issues; email: foundation@travis-ci.org |
+
+DiversityTickets.org is a platform to help conferences and events to offer diversity tickets for underrepresented minorities in tech.
 
 ---
