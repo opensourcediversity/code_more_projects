@@ -26,6 +26,8 @@ Please open a PR if you want to update / add information about your project or a
 [EventFahrplan](#eventfahrplan) <br />
 [Wo ist Markt](#wo-ist-markt) <br />
 [Diversity Tickets](#diversity-tickets) <br />
+[The Qt Project](#the-qt-project) <br />
+
 
 
 
@@ -255,6 +257,7 @@ A conference program app for Android used at the Chaos Communication Congress an
 Wo ist Markt? aims at providing an easy to use website for flea, farmers markets and such.
 
 ---
+
 ### Diversity Tickets
 
 |Website| https://diversitytickets.org/ |
@@ -267,3 +270,19 @@ Wo ist Markt? aims at providing an easy to use website for flea, farmers markets
 DiversityTickets.org is a platform to help conferences and events to offer diversity tickets for underrepresented minorities in tech.
 
 ---
+
+
+### The Qt Project
+
+|Website| https://qt.io/ <br /> https://wiki.qt.io/Qt_Project_Guidelines |
+|----|----|
+|Repo| https://code.qt.io  |
+| Technologies| Qt is a cross-platform application development framework for desktop, embedded and mobile. Supported Platforms include Linux, OS X, Windows, VxWorks, QNX, Android, iOS, BlackBerry, Sailfish OS and others. Qt is not a programming language on its own. It is a framework written in C++. A preprocessor, the MOC (Meta-Object Compiler), is used to extend the C++ language with features like signals and slots. Before the compilation step, the MOC parses the source files written in Qt-extended C++ and generates standard compliant C++ sources from them. Thus the framework itself and applications/libraries using it can be compiled by any standard compliant C++ compiler like Clang, GCC, ICC, MinGW and MSVC. |
+| Open to Beginners| ✅  |
+| Contact|  https://lists.qt-project.org/mailman/listinfo/ and `#qt` on Freenode (IRC) |
+
+Although The Qt Company is the main driver behind Qt, Qt is now developed by a bigger alliance: The Qt Project. It consists of many companies and individuals around the globe and follows a meritocratic governance model.
+
+---
+
+
