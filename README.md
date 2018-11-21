@@ -1,6 +1,7 @@
 # Code More - Projects List
 
 This repo contains a list of projects from the Code More - Getting Started With Open Source Event.
+Please open a PR if you want to update / add information about your project or add one that is not already on the list. 
 
 
 ### Table of Contents
