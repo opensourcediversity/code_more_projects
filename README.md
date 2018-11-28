@@ -27,6 +27,7 @@ Please open a PR if you want to update / add information about your project or a
 [Wo ist Markt](#wo-ist-markt) <br />
 [Diversity Tickets](#diversity-tickets) <br />
 [The Qt Project](#the-qt-project) <br />
+[Human Connection](#human-connection) <br />
 
 
 
@@ -285,4 +286,16 @@ Although The Qt Company is the main driver behind Qt, Qt is now developed by a b
 
 ---
 
+### Human Connection
+
+|Website| https://human-connection.org/ |
+|----|----|
+|Repos | https://github.com/Human-Connection  |
+| Technologies| VueJS, Nuxt, GraphQL, NodeJS, MongoDB, Neo4j, Docker, Kubernetes |
+| Open to Beginners| ✅  |
+| Contact|  https://discord.gg/6ub73U3 or developer(at)human-connection.org|
+
+Human Connection is the free and open source social network for active citizenship.
+
+---
 
