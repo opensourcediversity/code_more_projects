@@ -28,6 +28,7 @@ Please open a PR if you want to update / add information about your project or a
 [Diversity Tickets](#diversity-tickets) <br />
 [The Qt Project](#the-qt-project) <br />
 [Human Connection](#human-connection) <br />
+[CODING](#coding) <br />
 
 
 
@@ -298,4 +299,18 @@ Although The Qt Company is the main driver behind Qt, Qt is now developed by a b
 Human Connection is the free and open source social network for active citizenship.
 
 ---
+
+### CODING
+
+|Website| https://github.com/C0D1NG/ |
+|----|----|
+|Repos | https://github.com/C0D1NG  |
+| Technologies| Html, C++, C |
+| Open to Beginners| ✅  |
+| Contact| github issues:  https://github.com/C0D1NG|
+
+CODING is the free and open source organization for beginner.
+
+---
+
 
